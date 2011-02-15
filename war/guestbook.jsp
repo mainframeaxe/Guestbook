@@ -13,7 +13,7 @@
   </head>
   <body>
   
-  <h1>Isto e´ um commit ca do Borgas...</h1>
+  <h1>Isto Ã© um commit ca do Borgas...</h1>
 
 <%
     UserService userService = UserServiceFactory.getUserService();
